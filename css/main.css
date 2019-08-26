@@ -1,5 +1,4 @@
-body { margin: 60px auto; width: 70%; 
-       background: url('../img/water-lilies.jpg'); background-size: cover}
+body { margin: 60px auto; width: 70%; }
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
