@@ -3,9 +3,9 @@ body { margin: 60px auto; width: 70%; }
 a { text-decoration: none; color: #d1c6ad; }
 a:hover { text-decoration: underline; }
 
-p, ul { font-size: 1.5em; line-height: 1.4em; color: #f4f9e9; }
+p, ul { font-size: 1.5em; line-height: 1.4em; color: #efd6d2; }
 
-h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; color: #f4f9e9; }
+h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; color: #efd6d2; }
 h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
